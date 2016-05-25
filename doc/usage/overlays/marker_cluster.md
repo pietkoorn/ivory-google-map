@@ -39,7 +39,7 @@ $markerCluster->setType('default');
 
 ## Javascript Marker Cluster
 
-The javascript marker cluster provides a [MarkerCluster](http://google-maps-utility-library-v3.googlecode.com/svn/trunk/markerclusterer/docs/examples.html)
+The javascript marker cluster provides a [MarkerCluster](http://cdn.rawgit.com/googlemaps/v3-utility-library/master/markerclusterer/docs/examples.html)
 integration. To enable it:
 
 ``` php
